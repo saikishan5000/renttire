@@ -14,7 +14,8 @@ Main aim of this project is to make sure no cloth or fabric item gets wasted!
 
 <h3>✨Tech Stacks✨</h3>
 <hr>
-
+Kotlin | Firebase 
+Additional- Figma
 
 <h3>⭐ Open Source Events ⭐</h3>
 <hr>
