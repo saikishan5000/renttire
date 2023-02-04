@@ -1,6 +1,6 @@
 # Renttire: Cloth Renting App
 
-<h3> 📜  About Project </h3>
+<h3> 📜 About Project 📜</h3>
 <hr>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/93516324/216045320-50cc7228-00e3-404f-aa2d-facee9dd043c.png" alt="Renttire" title="Renttire" style=" width:300px ; height:250px" >
@@ -17,11 +17,15 @@ This project will deal with providing an application-based platform online where
 The main aim of this project is to make sure no cloth or fabric item gets wasted!
 
 
-<h3>✨Tech Stacks✨</h3>
+<h3>✨Tech Stacks ✨</h3>
 <hr>
 Kotlin | Firebase <br/>
 <i>Additional</i>- Figma
 
+<h3>💻 UI 💻</h3>
+<hr>
+
+[Figma File Link](https://www.figma.com/file/182obbZ4z1NI7n1hvlGoGT/Renttire?node-id=0%3A1&t=P9miFsVcGMBi2TnJ-1)
 <h3>⭐ Open Source Events ⭐</h3>
 <hr>
 <p align="center">
