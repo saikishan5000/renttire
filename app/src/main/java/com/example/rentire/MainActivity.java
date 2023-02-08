@@ -1,4 +1,4 @@
-package com.example.renttire;
+package com.example.rentire;
 
 import androidx.appcompat.app.AppCompatActivity;
 

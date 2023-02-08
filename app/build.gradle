@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.renttire'
+    namespace 'com.example.rentire'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.renttire"
+        applicationId "com.example.rentire"
         minSdk 26
         targetSdk 33
         versionCode 1
