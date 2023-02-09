@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169694721127",
+    "project_id": "renttire-f673a",
+    "storage_bucket": "renttire-f673a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169694721127:android:7a1b28959ec5fbb29d50c2",
+        "android_client_info": {
+          "package_name": "com.example.renttire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169694721127-712fi9e0liff9jslo7cqjop5dml3sbip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo4IQxRZNiDC571m_rW33EqRrSZKep0f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169694721127-712fi9e0liff9jslo7cqjop5dml3sbip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
