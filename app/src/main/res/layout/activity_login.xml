@@ -10,6 +10,7 @@
     android:background="@drawable/loginbg"
     tools:context=".LoginActivity">
 
+
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
