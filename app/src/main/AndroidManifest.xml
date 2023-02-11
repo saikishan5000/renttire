@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Renttire"
         tools:targetApi="31">
         <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
             android:name=".loadingActivity"
             android:exported="false" />
         <activity
