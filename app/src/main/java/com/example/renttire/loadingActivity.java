@@ -20,6 +20,6 @@ public class loadingActivity extends AppCompatActivity {
             public void run() {
                 startActivity(new Intent(loadingActivity.this,MainActivity.class));
             }
-        },7000);
+        },9000);
     }
 }
