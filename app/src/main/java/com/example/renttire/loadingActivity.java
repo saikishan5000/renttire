@@ -19,6 +19,7 @@ public class loadingActivity extends AppCompatActivity {
             @Override
             public void run() {
                 startActivity(new Intent(loadingActivity.this,MainActivity.class));
+                finish();
             }
         },10000);
     }
