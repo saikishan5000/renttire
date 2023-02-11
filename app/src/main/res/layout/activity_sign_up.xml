@@ -84,6 +84,7 @@
                 android:layout_marginTop="30dp"
                 android:text="SignUp"
                 android:textSize="18sp"
+                android:textColor="@color/white"
                 android:theme="@style/Theme.MaterialComponents"
                 android:backgroundTint="@color/aquagreen"
                 app:cornerRadius="20dp"/>
