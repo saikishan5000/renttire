@@ -50,7 +50,7 @@ public class LoginActivity extends AppCompatActivity {
                                     public void onComplete(@NonNull Task<AuthResult> task) {
                                         Toast.makeText(LoginActivity.this, "Login Successful", Toast.LENGTH_SHORT).show();
                                         startActivity(new Intent(LoginActivity.this,loadingActivity.class));
-                                        finish();
+
                                     }
                                 });
 //                                .addOnFailureListener(new OnFailureListener() {
@@ -74,7 +74,7 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 startActivity(new Intent(LoginActivity.this,SignUpActivity.class));
-                finish();
+
             }
         });
     }
